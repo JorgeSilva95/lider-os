@@ -1,0 +1,21 @@
+:root {
+  --white: #fff;
+  --white10: #eeeeee;
+  --branc-0: #ffffff;
+  --cinz-500: #f6f6f6;
+  --blu-585: #006570;
+  --blu-575: #3d9db3;
+  --cinz-578: #d1ddde;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+}
+
+body {
+  background-color: var(--white10);
+}
